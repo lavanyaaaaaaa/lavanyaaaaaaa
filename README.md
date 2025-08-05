@@ -52,6 +52,7 @@ Always curious about secure, scalable systems & real-time tools!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=house-price-predictor&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=python-vulnerability-scanner&theme=tokyonight" />
 </p>
 ---
 
