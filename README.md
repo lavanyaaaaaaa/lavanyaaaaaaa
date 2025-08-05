@@ -1,74 +1,54 @@
-# Hi, I'm Lavanya Bethina! 👋
+# Hi, I'm Lavanya 👋
 
-🎓 I'm a Computer Science student at **Gayatri Vidya Parishad College of Engineering (A)**  
-🔬 Passionate about **Cybersecurity**, **Machine Learning**, and **Full Stack Web Development**  
-🌐 I build tools and projects to solve real-world problems and make the internet safer  
-🚀 Currently learning and working on **real-time network analyzers**, **secure authentication**, and **AI-powered tools**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web & Tools**  
-![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cybersecurity Tools**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+I'm a Computer Science student at **Gayatri Vidya Parishad College of Engineering (A)**.  
+I’m passionate about **Cybersecurity, Machine Learning, and Web Development**.  
+I share my learning journey and projects here on GitHub.  
+Currently building: **Network Traffic Analyzer, Graphical Password Auth System**.  
+Always curious about secure, scalable systems & real-time tools!
 
 ---
 
-## 🧠 Projects
+### 🧠 Most Used Languages
 
-### 🔹 [Network Traffic Analyzer](https://github.com/lavanyaaaaaaa/network-traffic-analyzer)
-> Real-time packet analyzer using Scapy and Flask with live protocol stats, UI themes, and CSV export.
-
-### 🔹 [Cipher Tool – Web Cryptography Utility](https://github.com/lavanyaaaaaaa/cipher-tool)
-> Encrypt/decrypt messages using Caesar, Vigenère, and Playfair ciphers with visual interaction.
-
-### 🔹 [House Price Predictor](https://github.com/lavanyaaaaaaa/house-price-predictor)
-> Machine learning app with 92% accuracy and interactive dashboards for housing trend predictions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌟 Achievements
+### 📊 Lavanya's GitHub Stats
 
-🏅 Top 1% (1 of 488 teams) in MSME Hackathon 4.0 – ₹15L funded project  
-🥇 Gold Medalist in 400m Relay – Annual Sports Meet 2024  
-📈 State Rank 1615 in EAPCET 2022  
+| 📈 Metric | 🔢 Value |
+|----------|----------|
+| **Total Stars Earned** | ⭐ XX |
+| **Total Commits (2025)** | 🟢 67 |
+| **Total PRs** | 🔁 XX |
+| **Total Issues** | 📩 01 |
+| **Contributed to (last year)** | 🌍 XX repositories |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lavanyaaaaaaa&theme=tokyonight" />
+</p>
 
 ---
 
-## 📢 Leadership
-
-👩‍💻 President – Association of Computer Intellects (AsCI)  
-👩‍🎓 Vice Chair – IEEE Women in Engineering, GVPCE SB  
-🧩 NSS Branch Coordinator – CSE  
-🗣️ Class Representative since 2022
+### 📂 Projects Showcase
+- 🔹 **Network Traffic Analyzer** – Real-time packet sniffer using Flask + Scapy with visual UI and export features.
+- 🔹 **Cipher Tool** – Classical cipher tool supporting Caesar, Vigenère, and Playfair.
+- 🔹 **House Price Predictor** – ML model (92% R²) with real-time trend visualization.
 
 ---
 
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaaaaaaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lavanya-bethina)
+### 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaaaaaaa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-bethina)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyabethinaa@gmail.com)
 
 ---
 
-> “Secure code is beautiful code.” 🔒💻
-
+> “Secure code is beautiful code.”
