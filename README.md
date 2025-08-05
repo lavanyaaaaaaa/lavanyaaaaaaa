@@ -8,23 +8,7 @@ Always curious about secure, scalable systems & real-time tools!
 
 ---
 
-### 🧠 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📊 Lavanya's GitHub Stats
-
-| 📈 Metric | 🔢 Value |
-|----------|----------|
-| **Total Stars Earned** | ⭐ XX |
-| **Total Commits (2025)** | 🟢 67 |
-| **Total PRs** | 🔁 XX |
-| **Total Issues** | 📩 01 |
-| **Contributed to (last year)** | 🌍 XX repositories |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" />
