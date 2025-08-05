@@ -47,7 +47,7 @@ Always curious about secure, scalable systems & real-time tools!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=network-traffic-analyzer&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=cipher-tool&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=encryption-tool&theme=tokyonight" />
 </p>
 
 <p align="center">
