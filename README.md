@@ -33,8 +33,8 @@ Always curious about secure, scalable systems & real-time tools!
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" height="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" width="48%" height="25%" />
 </p>
 
 <p align="center">
