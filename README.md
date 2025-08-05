@@ -21,11 +21,16 @@ Always curious about secure, scalable systems & real-time tools!
 
 ---
 
-### 📂 Projects Showcase
-- 🔹 **Network Traffic Analyzer** – Real-time packet sniffer using Flask + Scapy with visual UI and export features.
-- 🔹 **Cipher Tool** – Classical cipher tool supporting Caesar, Vigenère, and Playfair.
-- 🔹 **House Price Predictor** – ML model (92% R²) with real-time trend visualization.
+### 💻 Projects (GUI Preview)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=network-traffic-analyzer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=cipher-tool&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=house-price-predictor&theme=tokyonight" />
+</p>
 ---
 
 ### 📫 Connect With Me
