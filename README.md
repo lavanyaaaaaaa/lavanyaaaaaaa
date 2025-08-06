@@ -1,10 +1,9 @@
 # Hi, I'm Lavanya 👋
 
-I'm a Computer Science student at **Gayatri Vidya Parishad College of Engineering (A)**.  
-I’m passionate about **Cybersecurity, Machine Learning, and Web Development**.  
-I share my learning journey and projects here on GitHub.  
-Currently building: **Network Traffic Analyzer, Graphical Password Auth System**.  
-Always curious about secure, scalable systems & real-time tools!
+🎓 B.Tech CSE @ Gayatri Vidya Parishad College of Engineering (A) (2022–2026)  
+🛡️ Cybersecurity | 🤖 Machine Learning | 🌐 Full Stack Development  
+🧪 Passionate about building real-time, secure, and intelligent applications  
+📌 Currently building: **Network Traffic Analyzer**, **Graphical Password Auth System**
 
 ---
 
@@ -30,19 +29,25 @@ Always curious about secure, scalable systems & real-time tools!
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
 
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" height="25%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" width="48%" height="25%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lavanyaaaaaaa&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=lavanyaaaaaaa&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+
 
 ---
 
-### 💻 Projects (GUI Preview)
+### 📂 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=network-traffic-analyzer&theme=tokyonight" />
@@ -53,6 +58,7 @@ Always curious about secure, scalable systems & real-time tools!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=house-price-predictor&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lavanyaaaaaaa&repo=python-vulnerability-scanner&theme=tokyonight" />
 </p>
+
 ---
 
 ### 🏆 Achievements
@@ -70,7 +76,10 @@ Always curious about secure, scalable systems & real-time tools!
 - 🧩 NSS Branch Coordinator – CSE, Mar 2025 – Present  
 - 🗣️ Class Representative – Oct 2022 – Present
 
+---
+
 ### 📫 Connect With Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaaaaaaa)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-bethina)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyabethinaa@gmail.com)
