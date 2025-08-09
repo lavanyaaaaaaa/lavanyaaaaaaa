@@ -1,4 +1,4 @@
-# Hi, I'm Lavanya 👋
+# Hi, I'm Lavanya 
 
 🎓 B.Tech CSE @ Gayatri Vidya Parishad College of Engineering (A) (2022–2026)  
 🛡️ Cybersecurity | 🤖 Machine Learning | 🌐 Full Stack Development  
