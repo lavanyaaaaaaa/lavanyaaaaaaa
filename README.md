@@ -1,4 +1,8 @@
-# 👩‍💻 Hi, I'm Lavanya  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lavanya+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Cybersecurity+%7C+Machine+Learning+%7C+Full+Stack;Building+Secure+and+Smart+Applications" alt="Typing SVG" />
+  </a>
+</p>
 
 🎓 B.Tech CSE @ Gayatri Vidya Parishad College of Engineering (A) (2022–2026)  
 🛡️ Cybersecurity | 🤖 Machine Learning | 🌐 Full Stack Development  
