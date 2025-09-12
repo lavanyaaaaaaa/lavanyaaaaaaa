@@ -37,14 +37,31 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=radical&title_color=00ffea&icon_color=00ffea" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=radical&title_color=00ffea" width="48%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lavanyaaaaaaa&show_icons=true&theme=radical&title_color=00ffea&icon_color=00ffea" width="400" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaaaaaaa&layout=compact&theme=radical&title_color=00ffea" width="400" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lavanyaaaaaaa&theme=radical&ring=00ffea&fire=ff6600&currStreakLabel=00ffea" width="400" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=lavanyaaaaaaa&theme=radical&row=1&column=4&no-bg=true&no-frame=true&title_color=00ffea" width="400" height="200"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lavanyaaaaaaa&theme=radical&ring=00ffea&fire=ff6600&currStreakLabel=00ffea" />
-  <img src="https://komarev.com/ghpvc/?username=lavanyaaaaaaa&label=Profile%20Views&color=00ffea&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaaaaaaa&theme=react-dark&bg_color=0A0F0D&color=00ffea&line=ff6600&point=00ffea&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
